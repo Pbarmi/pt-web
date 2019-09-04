@@ -36,6 +36,7 @@ body {
   }
   li {
   float: left;
+      clear: left;
 }
   nav a {
     color: #fff;
